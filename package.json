@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-googleforms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node N8N to interact with Google Forms",
   "keywords": [
     "n8n-community-node-package",
@@ -40,10 +40,10 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/googleformsApi.credentials.js"
+      "dist/credentials/GoogleFormsApi.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/googleforms/googleforms.node.js"
+      "dist/nodes/GoogleForms/GoogleForms.node.js"
     ]
   },
  "devDependencies": {
