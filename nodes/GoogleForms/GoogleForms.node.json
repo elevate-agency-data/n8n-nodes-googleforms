@@ -1,0 +1,20 @@
+{
+  "node": "n8n-nodes-googleforms.GoogleForms",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "GoogleForms"
+  ],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://developers.google.com/workspace/forms/api/reference/rest?hl=en"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://developers.google.com/workspace/forms/api/reference/rest?hl=en"
+      }
+    ]
+  }
+}
